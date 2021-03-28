@@ -1,0 +1,27 @@
+body{
+    max-width: 500px;
+    margin: 0 auto;
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+
+}
+.name-form {
+    display:flex;
+    max-width: 420px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.validate {
+    width:200px;
+    margin-left: 20px;
+}
+.names{
+    margin: 0 auto;
+}
+.name {
+    display: flex;
+    justify-content: space-between;
+}
+button{
+   min-width: 100px;
+}
+
